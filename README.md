@@ -1,7 +1,21 @@
-### Hi there 👋
+### Hey, I'm Chris!  
+
+I like making games.  
+About to graduate from University of Illinois Chicago 🔥  
+[Need a new software engineer? I'm your guy!](mailto:chris@topher.games)  
+
+### Pizza Joint of the Day  
+
+The Art of Pizza  
+3033 N Ashland Ave, Chicago, IL 60657, USA  
+
+
+![](pizza.jpg)  
+
+![Build Status](https://github.com/pizzatree/pizzatree/workflows/Build%20README/badge.svg)
 
 <!--
-**pizzatree/pizzatree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Some inspiration from https://dev.to/dancurtis/self-updating-github-profile-readme-with-javascript-lhm
 
 Here are some ideas to get you started:
 
