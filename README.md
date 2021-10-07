@@ -6,8 +6,8 @@ About to graduate from University of Illinois Chicago 🔥
 
 ### Pizza Joint of the Day  
 
-The Art of Pizza  
-3033 N Ashland Ave, Chicago, IL 60657, USA  
+Dimo's Pizza Wrigley  
+3463 N Clark St, Chicago, IL 60657, USA  
 
 
 ![](pizza.jpg)  
