@@ -10,8 +10,8 @@
 [<img src="pizza.jpg" align="right">]()
 ### Pizza Joint of the Day  
 
-The Art of Pizza  
-3033 N Ashland Ave, Chicago, IL 60657, USA  
+Pazza Pizza  
+1543 N Sedgwick St, Chicago, IL 60610, USA  
 
 
 ### Get in touch!
