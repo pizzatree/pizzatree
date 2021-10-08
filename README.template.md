@@ -1,5 +1,5 @@
 ### 🤙 Hey, I'm Chris!  
-[<img src="https://media0.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" align="left" height=140>]()
+[<img src="https://media0.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" align="left" height=125>]()
 
 - 🕹️ I like making games.
 - 🔨 Working on VR applications
@@ -12,15 +12,13 @@
 
 [ REPLACE ME ]
 
+<br><br><br><br><br>
 ### Get in touch!
 
 [<img src="https://img.shields.io/badge/Site-topher.games-orange">](https://topher.games)
 [<img src="https://img.shields.io/badge/Email-chris@topher.games-green">](mailto:chris@topher.games)
-[<img src="https://img.shields.io/badge/LinkedIn-topherbrandt-blue">](https://www.linkedin.com/in/topherbrandt/)  
-
-<br><br>
-![Build Status](https://github.com/pizzatree/pizzatree/workflows/Build%20README/badge.svg)  
-
+[<img src="https://img.shields.io/badge/LinkedIn-topherbrandt-blue">](https://www.linkedin.com/in/topherbrandt/)
+<img src=https://github.com/pizzatree/pizzatree/workflows/Build%20README/badge.svg align="right">
 
 
 <!--
