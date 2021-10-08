@@ -10,8 +10,8 @@
 [<img src="pizza.jpg" align="right">]()
 ### Pizza Joint of the Day  
 
-Dante's Pizzeria  
-3028 W Armitage Ave, Chicago, IL 60647, USA  
+Aurelio's Pizza  
+1212 S Michigan Ave, Chicago, IL 60605, USA  
 
 
 <br><br><br><br><br>
@@ -19,9 +19,9 @@ Dante's Pizzeria
 
 [<img src="https://img.shields.io/badge/Site-topher.games-orange">](https://topher.games)
 [<img src="https://img.shields.io/badge/Email-chris@topher.games-green">](mailto:chris@topher.games)
-[<img src="https://img.shields.io/badge/LinkedIn-topherbrandt-blue">](https://www.linkedin.com/in/topherbrandt/)
-<img src=https://github.com/pizzatree/pizzatree/workflows/Build%20README/badge.svg align="right">
+[<img src="https://img.shields.io/badge/LinkedIn-topherbrandt-blue">](https://www.linkedin.com/in/topherbrandt/)  
 
+[![Build README](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)
 
 <!--
 Some inspiration from https://dev.to/dancurtis/self-updating-github-profile-readme-with-javascript-lhm
