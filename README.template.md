@@ -17,9 +17,9 @@
 
 [<img src="https://img.shields.io/badge/Site-topher.games-orange">](https://topher.games)
 [<img src="https://img.shields.io/badge/Email-chris@topher.games-green">](mailto:chris@topher.games)
-[<img src="https://img.shields.io/badge/LinkedIn-topherbrandt-blue">](https://www.linkedin.com/in/topherbrandt/)
-<img src=https://github.com/pizzatree/pizzatree/workflows/Build%20README/badge.svg align="right">
+[<img src="https://img.shields.io/badge/LinkedIn-topherbrandt-blue">](https://www.linkedin.com/in/topherbrandt/)  
 
+[![Build README](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)
 
 <!--
 Some inspiration from https://dev.to/dancurtis/self-updating-github-profile-readme-with-javascript-lhm
