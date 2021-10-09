@@ -10,8 +10,8 @@
 <img src="pizza.jpg" align="right" height=285>
 ### Pizza Joint of the Day  
 
-Aurelio's Pizza  
-1212 S Michigan Ave, Chicago, IL 60605, USA  
+Pazza Pizza  
+1543 N Sedgwick St, Chicago, IL 60610, USA  
   
 
 <br>
