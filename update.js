@@ -14,7 +14,7 @@ const download = require('download');
 
 const key = process.env.API_KEY;
 
-let newData = [ restName = '', address = '']
+let g_restaurantData = [ fullName = '', address = '', hours = ''];
 
 function decidePlace()
 {
@@ -33,7 +33,7 @@ function decidePlace()
 function findPlaceID(name)
 {
     let placesLookupURL = 'https://maps.googleapis.com/maps/api/place/textsearch/json?';
-    let url = placesLookupURL + 'query=' + name + '&key=' + key;
+    let url = placesLookupURL + `query=${name}&key=${key}`;
 
     https.get(url, res =>
     {
@@ -53,7 +53,7 @@ function findPlaceID(name)
 function getDetails(place_id)
 {
     let detailsURL = 'https://maps.googleapis.com/maps/api/place/details/json?'
-    let url = detailsURL + 'place_id=' + place_id + '&key=' + key;
+    let url = detailsURL + `place_id=${place_id}&key=${key}`;
 
     https.get(url, res =>
     {
@@ -66,14 +66,21 @@ function getDetails(place_id)
         {
             let results = JSON.parse(info).result;
 
-            let restaurantName = results['name'];
-            let address = results['formatted_address'];
             let hours = results['opening_hours']['weekday_text'];
+            let today = [6, 0, 1, 2, 3, 4, 5][new Date().getDay()]; // JS week starts Sunday, GMaps week starts Monday
+            let todaysHours = hours[today];
+
+            if(todaysHours.includes('Closed'))
+            {
+                decidePlace(); // start over
+                return;
+            }
+
+            g_restaurantData.fullName = results['name'];
+            g_restaurantData.address = results['formatted_address'];
+            g_restaurantData.hours = todaysHours;
+
             let photos = results['photos'];
-
-            newData.restName = restaurantName;
-            newData.address = address;
-
             let photoNum = getRndInteger(0, photos.length);
             let photoReference = photos[photoNum]['photo_reference'];
             getPicture(photoReference);
@@ -83,10 +90,11 @@ function getDetails(place_id)
 
 function getPicture(photo_reference)
 {
+    let maxheight = 285;
+    let maxwidth = 450;
+
     let photoLookupURL = 'https://maps.googleapis.com/maps/api/place/photo?';
-    let maxheight = 300;
-    let maxwidth = 600;
-    let url = photoLookupURL + 'maxheight=' + maxheight + '&maxwidth=' + maxwidth + '&photo_reference=' + photo_reference + '&key=' + key;
+    let url = photoLookupURL + `maxheight=${maxheight}&maxwidth=${maxwidth}&photo_reference=${photo_reference}&key=${key}`;
 
     download(url).pipe(fs.createWriteStream('./pizza.jpg'));
 
@@ -103,7 +111,7 @@ function writeREADME()
         const updatedTemplate = data.replace
         (
             '[ REPLACE ME ]',
-            newData.restName + '  \n' + newData.address + '  \n'
+            `${g_restaurantData.fullName}  \n${g_restaurantData.address}  \n${g_restaurantData.hours}`
         );
 
         fs.writeFile('README.md', updatedTemplate, 'utf-8', (err) =>
