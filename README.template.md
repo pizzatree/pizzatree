@@ -10,15 +10,17 @@
 [<img src="pizza.jpg" align="right">]()
 ### Pizza Joint of the Day  
 
-[ REPLACE ME ]
+[ REPLACE ME ]  
 
-### Get in touch!
+<br>
+
+[![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
+
+### Get in touch!  
 
 [<img src="https://img.shields.io/badge/Site-topher.games-orange">](https://topher.games)  
 [<img src="https://img.shields.io/badge/Email-chris@topher.games-green">](mailto:chris@topher.games)  
 [<img src="https://img.shields.io/badge/LinkedIn-topherbrandt-blue">](https://www.linkedin.com/in/topherbrandt/)  
-
-[![Build README](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)
 
 <!--
 Some inspiration from https://dev.to/dancurtis/self-updating-github-profile-readme-with-javascript-lhm
