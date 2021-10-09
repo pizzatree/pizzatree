@@ -10,9 +10,9 @@
 [<img src="pizza.jpg" align="right" height=285>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Rosati's Pizza - Chicago Loop  
-176 N Wells St, Chicago, IL 60606, USA  
-Saturday: 10:00 AM – 4:00 AM
+Dimo's Pizza Wrigley  
+3463 N Clark St, Chicago, IL 60657, USA  
+Saturday: 11:00 AM – 3:00 AM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
