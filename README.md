@@ -12,7 +12,7 @@
 
 The Art of Pizza  
 3033 N Ashland Ave, Chicago, IL 60657, USA  
-Sunday: 10:50 AM – 10:30 PM
+Monday: 10:50 AM – 10:30 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
