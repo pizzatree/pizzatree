@@ -10,9 +10,9 @@
 [<img src="pizza.jpg" align="right" height=285>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Angelo's Stuffed Pizza  
-4850 S Pulaski Rd, Chicago, IL 60632, USA  
-Saturday: 12:00 – 11:30 PM
+Rosati's Pizza - Chicago Loop  
+176 N Wells St, Chicago, IL 60606, USA  
+Sunday: 11:00 AM – 2:00 AM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
