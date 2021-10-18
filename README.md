@@ -10,9 +10,9 @@
 [<img src="pizza.jpg" align="right" height=285>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Rosati's Pizza - Chicago Loop  
-176 N Wells St, Chicago, IL 60606, USA  
-Sunday: 11:00 AM – 2:00 AM
+Barraco's Pizza  
+3701 95th St, Evergreen Park, IL 60805, USA  
+Monday: Open 24 hours
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
