@@ -10,9 +10,9 @@
 [<img src="pizza.jpg" align="right" height=285>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Spacca Napoli Pizzeria  
-1769 W Sunnyside Ave, Chicago, IL 60640, USA  
-Wednesday: 11:30 AM – 3:00 PM, 4:00 – 9:00 PM
+Dimo's Pizza Wicker Park  
+1615 N Damen Ave, Chicago, IL 60647, USA  
+Thursday: 11:00 AM – 2:00 AM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
