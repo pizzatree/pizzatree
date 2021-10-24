@@ -10,9 +10,9 @@
 [<img src="pizza.jpg" align="right" height=285>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Dante's Pizzeria  
-3028 W Armitage Ave, Chicago, IL 60647, USA  
-Saturday: 11:00 AM – 10:00 PM
+Angelo's Stuffed Pizza  
+4850 S Pulaski Rd, Chicago, IL 60632, USA  
+Sunday: 12:00 – 11:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
