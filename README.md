@@ -10,9 +10,9 @@
 [<img src="pizza.jpg" align="right" height=285>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Dante's Pizzeria  
-3028 W Armitage Ave, Chicago, IL 60647, USA  
-Tuesday: 11:00 AM – 10:00 PM
+Pequod's Pizza  
+2207 N Clybourn Ave, Chicago, IL 60614, USA  
+Wednesday: 11:00 AM – 2:00 AM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
