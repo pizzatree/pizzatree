@@ -12,7 +12,7 @@
 
 Dimo's Pizza Wrigley  
 3463 N Clark St, Chicago, IL 60657, USA  
-Saturday: 11:00 AM – 3:00 AM
+Sunday: 11:00 AM – 12:00 AM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
