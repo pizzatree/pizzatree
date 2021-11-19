@@ -10,9 +10,9 @@
 [<img src="pizza.jpg" align="right" height=285>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Barraco's Pizza  
-3701 95th St, Evergreen Park, IL 60805, USA  
-Thursday: Open 24 hours
+Aurelio's Pizza Homewood  
+18162 Harwood Ave, Homewood, IL 60430, USA  
+Friday: 4:00 – 10:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
