@@ -10,9 +10,9 @@
 [<img src="pizza.jpg" align="right" height=285>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Dimo's Pizza Wrigley  
-3463 N Clark St, Chicago, IL 60657, USA  
-Thursday: 4:00 PM – 1:00 AM
+Angelo's Stuffed Pizza  
+4850 S Pulaski Rd, Chicago, IL 60632, USA  
+Friday: 11:00 AM – 11:30 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
