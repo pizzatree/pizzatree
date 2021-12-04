@@ -10,9 +10,9 @@
 [<img src="pizza.jpg" align="right" height=285>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Angelo's Stuffed Pizza  
-4850 S Pulaski Rd, Chicago, IL 60632, USA  
-Friday: 11:00 AM – 11:30 PM
+Aurelio's Pizza Homewood  
+18162 Harwood Ave, Homewood, IL 60430, USA  
+Saturday: 11:30 AM – 10:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
