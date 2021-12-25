@@ -10,9 +10,9 @@
 [<img src="pizza.jpg" align="right" height=285>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Barraco's Pizza  
-3701 95th St, Evergreen Park, IL 60805, USA  
-Friday: Open 24 hours
+Dimo's Pizza Wicker Park  
+1615 N Damen Ave, Chicago, IL 60647, USA  
+Saturday: 11:00 AM – 2:00 AM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
