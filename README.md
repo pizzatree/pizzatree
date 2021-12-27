@@ -10,9 +10,9 @@
 [<img src="pizza.jpg" align="right" height=285>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Rosati's Pizza  
-6560 Joliet Rd, Countryside, IL 60525, USA  
-Sunday: 11:00 AM – 10:00 PM
+Pequod's Pizza  
+2207 N Clybourn Ave, Chicago, IL 60614, USA  
+Monday: 11:00 AM – 2:00 AM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
