@@ -10,9 +10,9 @@
 [<img src="pizza.jpg" align="right" height=285>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-The Art of Pizza  
-3033 N Ashland Ave, Chicago, IL 60657, USA  
-Wednesday: 10:50 AM – 10:30 PM
+Aurelio's Pizza Homewood  
+18162 Harwood Ave, Homewood, IL 60430, USA  
+Thursday: 4:00 – 9:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
