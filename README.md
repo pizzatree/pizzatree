@@ -12,7 +12,7 @@
 
 Pazza Pizza  
 1543 N Sedgwick St, Chicago, IL 60610, USA  
-Friday: 3:00 PM – 2:00 AM
+Saturday: 3:00 PM – 12:00 AM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
