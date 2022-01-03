@@ -10,9 +10,9 @@
 [<img src="pizza.jpg" align="right" height=285>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Pazza Pizza  
-1543 N Sedgwick St, Chicago, IL 60610, USA  
-Sunday: 3:00 – 8:00 PM
+Dante's Pizzeria  
+3028 W Armitage Ave, Chicago, IL 60647, USA  
+Monday: 11:00 AM – 10:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
