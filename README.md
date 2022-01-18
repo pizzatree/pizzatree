@@ -10,9 +10,9 @@
 [<img src="pizza.jpg" align="right" height=285>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Barraco's Pizza  
-3701 95th St, Evergreen Park, IL 60805, USA  
-Monday: Open 24 hours
+The Art of Pizza  
+3033 N Ashland Ave, Chicago, IL 60657, USA  
+Tuesday: 10:50 AM – 10:30 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
