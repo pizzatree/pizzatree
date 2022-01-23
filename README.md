@@ -10,9 +10,9 @@
 [<img src="pizza.jpg" align="right" height=285>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Spacca Napoli Pizzeria  
-1769 W Sunnyside Ave, Chicago, IL 60640, USA  
-Saturday: 11:30 AM – 9:00 PM
+The Art of Pizza  
+3033 N Ashland Ave, Chicago, IL 60657, USA  
+Sunday: 10:50 AM – 10:30 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
