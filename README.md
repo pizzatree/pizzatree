@@ -10,18 +10,18 @@
 [<img src="pizza.jpg" align="right" height=285>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-The Art of Pizza  
-3033 N Ashland Ave, Chicago, IL 60657, USA  
-Tuesday: 10:50 AM – 10:30 PM
+Danny's Pizza Place  
+6021 S Archer Ave, Chicago, IL 60638, USA  
+Tuesday: 2:00 – 10:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
 ### Get in touch!  
 
-[<img src="https://img.shields.io/badge/Steam Dev Page-grey?style=for-the-badge&logo=steam&logoColor=blue">](https://topher.games)  
+[<img src="https://img.shields.io/badge/Steam Dev Page-grey?style=for-the-badge&logo=steam&logoColor=blue">](https://store.steampowered.com/search/?developer=Topher%20Games)  
 [<img src="https://img.shields.io/badge/topher.games-green?style=for-the-badge&logo=internetexplorer&logoColor=white">](https://topher.games)  
-[<img src="https://img.shields.io/badge/eMail-orange?style=for-the-badge&logo=gmail&logoColor=white">](mailto:chris@topher.games)  
 [<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UC_2gdIAt45SekjdQIb-rbjw)  
+[<img src="https://img.shields.io/badge/eMail-orange?style=for-the-badge&logo=gmail&logoColor=white">](mailto:chris@topher.games)  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/topherbrandt/)  
 
 <!--
