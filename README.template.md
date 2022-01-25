@@ -2,7 +2,7 @@
 [<img src="https://media0.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" align="left" height=125>]()
 
 - 🕹️ I like making games.
-- 🔨 Working on some cool stuff in Unity.
+- 🔨 Working on [CatNab's Steam release](https://store.steampowered.com/app/1881800/CatNab/).
 - 👷 [Need a new software engineer? I'm your guy!](mailto:chris@topher.games)  
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-original.svg" height=22.5/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg" height=22.5/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/unity/unity-original.svg" height=22.5/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg" height=22.5/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg" height=22.5/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" height=22.5/>  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" height=22.5/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" height=22.5/>  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/arduino/arduino-original-wordmark.svg" height=22.5/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jetbrains/jetbrains-original.svg" height=22.5/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain.svg" height=22.5/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/xd/xd-plain.svg" height=22.5/>
@@ -16,9 +16,11 @@
 
 ### Get in touch!  
 
-[<img src="https://img.shields.io/badge/Site-topher.games-orange">](https://topher.games)  
-[<img src="https://img.shields.io/badge/Email-chris@topher.games-green">](mailto:chris@topher.games)  
-[<img src="https://img.shields.io/badge/LinkedIn-topherbrandt-blue">](https://www.linkedin.com/in/topherbrandt/)  
+[<img src="https://img.shields.io/badge/Steam Dev Page-grey?style=for-the-badge&logo=steam&logoColor=blue">](https://topher.games)  
+[<img src="https://img.shields.io/badge/topher.games-green?style=for-the-badge&logo=internetexplorer&logoColor=white">](https://topher.games)  
+[<img src="https://img.shields.io/badge/eMail-orange?style=for-the-badge&logo=gmail&logoColor=white">](mailto:chris@topher.games)  
+[<img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white">](https://www.youtube.com/channel/UC_2gdIAt45SekjdQIb-rbjw)  
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/topherbrandt/)  
 
 <!--
 Some inspiration from https://dev.to/dancurtis/self-updating-github-profile-readme-with-javascript-lhm
