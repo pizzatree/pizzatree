@@ -1,4 +1,4 @@
-name: Update Pizza OTD
+name: Daily Update
 
 on:
   schedule:
@@ -24,6 +24,7 @@ jobs:
         node-version: 10.16
     - run: npm install
     - run: npm install download
+    - run: npm install js-joda
     - run: npm run build --if-present
     - run: npm test
       env:
@@ -33,7 +34,9 @@ jobs:
       env:
         API_KEY: ${{ secrets.API_KEY }}
       run: |-
-        node update.js
+        node pizzaupdate.js
+        cat README.md
+        node selfpromoupdate.js
         cat README.md
 
     - name: Commit and push if changed

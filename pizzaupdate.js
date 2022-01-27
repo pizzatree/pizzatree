@@ -1,4 +1,4 @@
-/*  update.js
+/*  pizzaupdate.js
  *  Uses Google Maps Places API paired with a list of pizza joints
  *  to generate a Place of the Day. Inserts this information into README.md
  *  by modifying README.template.md. Intended to run once a day via GitHub Actions.
@@ -110,7 +110,7 @@ function writeREADME()
 
         const updatedTemplate = data.replace
         (
-            '[ REPLACE ME ]',
+            '[ PIZZA ]',
             `${g_restaurantData.fullName}  \n${g_restaurantData.address}  \n${g_restaurantData.hours}`
         );
 
