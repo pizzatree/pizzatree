@@ -90,8 +90,8 @@ function getDetails(place_id)
 
 function getPicture(photo_reference)
 {
-    let maxheight = 285;
-    let maxwidth = 450;
+    let maxheight = 3840;
+    let maxwidth = 2160;
 
     let photoLookupURL = 'https://maps.googleapis.com/maps/api/place/photo?';
     let url = photoLookupURL + `maxheight=${maxheight}&maxwidth=${maxwidth}&photo_reference=${photo_reference}&key=${key}`;
