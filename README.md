@@ -10,7 +10,7 @@
 [<img src="catnab_header.jpg" align="right" height=172 width=368>](catnab_header.jpg)
 ### Shameless Self Promotion of the Day
 
-24 days until CatNab is out on Steam!
+23 days until CatNab is out on Steam!
 
 [<img src="https://img.shields.io/badge/Steam Dev Page-grey?style=for-the-badge&logo=steam&logoColor=blue">](https://store.steampowered.com/developer/tophergames/)    
 [<img src="https://img.shields.io/badge/topher.games-green?style=for-the-badge&logo=internetexplorer&logoColor=white">](https://topher.games)  
@@ -19,9 +19,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Spacca Napoli Pizzeria  
-1769 W Sunnyside Ave, Chicago, IL 60640, USA  
-Friday: 11:30 AM – 9:00 PM
+Pazza Pizza  
+1543 N Sedgwick St, Chicago, IL 60610, USA  
+Saturday: 3:00 PM – 2:00 AM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
