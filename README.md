@@ -10,7 +10,7 @@
 [<img src="catnab_header.jpg" align="right" height=172 width=368>](catnab_header.jpg)
 ### Shameless Self Promotion of the Day
 
-21 days until CatNab is out on Steam!
+20 days until CatNab is out on Steam!
 
 [<img src="https://img.shields.io/badge/Steam Dev Page-grey?style=for-the-badge&logo=steam&logoColor=blue">](https://store.steampowered.com/developer/tophergames/)    
 [<img src="https://img.shields.io/badge/topher.games-green?style=for-the-badge&logo=internetexplorer&logoColor=white">](https://topher.games)  
@@ -21,7 +21,7 @@
 
 Rosati's Pizza  
 6560 Joliet Rd, Countryside, IL 60525, USA  
-Monday: 11:00 AM – 10:00 PM
+Tuesday: 11:00 AM – 10:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
