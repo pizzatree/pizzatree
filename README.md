@@ -10,7 +10,7 @@
 [<img src="catnab_header.jpg" align="right" height=172 width=368>](catnab_header.jpg)
 ### Shameless Self Promotion of the Day
 
-14 days until CatNab is out on Steam!
+13 days until CatNab is out on Steam!
 
 [<img src="https://img.shields.io/badge/Steam Dev Page-grey?style=for-the-badge&logo=steam&logoColor=blue">](https://store.steampowered.com/developer/tophergames/)    
 [<img src="https://img.shields.io/badge/topher.games-green?style=for-the-badge&logo=internetexplorer&logoColor=white">](https://topher.games)  
@@ -19,9 +19,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-The Art of Pizza  
-3033 N Ashland Ave, Chicago, IL 60657, USA  
-Monday: 10:50 AM – 10:30 PM
+Pequod's Pizza  
+2207 N Clybourn Ave, Chicago, IL 60614, USA  
+Tuesday: 11:00 AM – 2:00 AM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
