@@ -10,7 +10,7 @@
 [<img src="catnab_header.jpg" align="right" height=172 width=368>](catnab_header.jpg)
 ### Shameless Self Promotion of the Day
 
--12 days until CatNab is out on Steam!
+-13 days until CatNab is out on Steam!
 
 [<img src="https://img.shields.io/badge/Steam Dev Page-grey?style=for-the-badge&logo=steam&logoColor=blue">](https://store.steampowered.com/developer/tophergames/)    
 [<img src="https://img.shields.io/badge/topher.games-green?style=for-the-badge&logo=internetexplorer&logoColor=white">](https://topher.games)  
@@ -19,9 +19,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Dimo's Pizza Wicker Park  
-1615 N Damen Ave, Chicago, IL 60647, USA  
-Saturday: 11:00 AM – 2:00 AM
+Barraco's Pizza  
+3701 95th St, Evergreen Park, IL 60805, USA  
+Sunday: Open 24 hours
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
