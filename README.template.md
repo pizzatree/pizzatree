@@ -1,16 +1,15 @@
 ### 🤙 Hey, I'm Chris!  
 [<img src="https://media0.giphy.com/media/lJNoBCvQYp7nq/giphy.gif" align="left" height=125>]()
 
-- 🕹️ I like making games.
-- 🔨 Working on [CatNab's Steam release](https://store.steampowered.com/app/1881800/CatNab/).
-- 🍕 [Send me your favorite pizza joints!](mailto:chris@topher.games)  
+- 🕹️ You should play [CatNab](https://store.steampowered.com/app/1881800/CatNab/)
+- 🔨 I am awful at haiku.
+- 🍕 [Send me pizza joints.](mailto:chris@topher.games)  
   
 <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/cplusplus/cplusplus-original.svg" height=22.5/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/csharp/csharp-original.svg" height=22.5/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/unity/unity-original.svg" height=22.5/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/java/java-original-wordmark.svg" height=22.5/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/python/python-original-wordmark.svg" height=22.5/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/javascript/javascript-original.svg" height=22.5/>  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/c/c-original.svg" height=22.5/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/mysql/mysql-original-wordmark.svg" height=22.5/>  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/arduino/arduino-original-wordmark.svg" height=22.5/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/jetbrains/jetbrains-original.svg" height=22.5/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/visualstudio/visualstudio-plain.svg" height=22.5/> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/xd/xd-plain.svg" height=22.5/>
 
-[<img src="catnab_header.jpg" align="right" height=172 width=368>](catnab_header.jpg)
-### Shameless Self Promotion of the Day
+### Shameless Self Promotion of the Day  
 
-[ PROMO ]
+[![CatNab's Steam Page](catnab_steam_widget.png)](https://store.steampowered.com/app/1881800/CatNab/)  
 
 [<img src="https://img.shields.io/badge/Steam Dev Page-grey?style=for-the-badge&logo=steam&logoColor=blue">](https://store.steampowered.com/developer/tophergames/)    
 [<img src="https://img.shields.io/badge/topher.games-green?style=for-the-badge&logo=internetexplorer&logoColor=white">](https://topher.games)  

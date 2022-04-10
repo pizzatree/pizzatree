@@ -36,8 +36,6 @@ jobs:
       run: |-
         node pizzaupdate.js
         cat README.md
-        node selfpromoupdate.js
-        cat README.md
 
     - name: Commit and push if changed
       run: |-
