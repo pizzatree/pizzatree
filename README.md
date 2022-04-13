@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Danny's Pizza Place  
-6021 S Archer Ave, Chicago, IL 60638, USA  
-Tuesday: 2:00 – 10:00 PM
+Pazza Pizza  
+1543 N Sedgwick St, Chicago, IL 60610, USA  
+Wednesday: 3:00 PM – 12:00 AM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
