@@ -20,7 +20,7 @@
 
 Dante's Pizzeria  
 3028 W Armitage Ave, Chicago, IL 60647, USA  
-Wednesday: 11:00 AM – 10:00 PM
+Thursday: 11:00 AM – 10:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
