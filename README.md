@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Barraco's Pizza  
-3701 95th St, Evergreen Park, IL 60805, USA  
-Saturday: Open 24 hours
+Angelo's Stuffed Pizza  
+4850 S Pulaski Rd, Chicago, IL 60632, USA  
+Sunday: 12:00 – 10:30 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
