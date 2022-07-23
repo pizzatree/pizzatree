@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Dimo's Pizza Wicker Park  
-1615 N Damen Ave, Chicago, IL 60647, USA  
-Thursday: 11:00 AM – 2:00 AM
+Rosati's Pizza  
+6560 Joliet Rd, Countryside, IL 60525, USA  
+Saturday: 10:00 AM – 11:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
