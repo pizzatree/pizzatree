@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Pequod's Pizza  
-2207 N Clybourn Ave, Chicago, IL 60614, USA  
-Friday: 11:00 AM – 2:00 AM
+Dimo's Pizza Wicker Park  
+1615 N Damen Ave, Chicago, IL 60647, USA  
+Saturday: 11:00 AM – 4:00 AM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
