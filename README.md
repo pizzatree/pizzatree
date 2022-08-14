@@ -20,7 +20,7 @@
 
 Angelo's Stuffed Pizza  
 4850 S Pulaski Rd, Chicago, IL 60632, USA  
-Saturday: 12:00 – 11:30 PM
+Sunday: 12:00 – 10:30 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
