@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Dimo's Pizza Wicker Park  
-1615 N Damen Ave, Chicago, IL 60647, USA  
-Friday: 11:00 AM – 3:00 AM
+Pazza Pizza  
+1543 N Sedgwick St, Chicago, IL 60610, USA  
+Saturday: 3:00 PM – 2:30 AM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
