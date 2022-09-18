@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Angelo's Stuffed Pizza  
-4850 S Pulaski Rd, Chicago, IL 60632, USA  
-Saturday: 12:00 – 11:30 PM
+Pazza Pizza  
+1543 N Sedgwick St, Chicago, IL 60610, USA  
+Sunday: 3:00 – 9:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
