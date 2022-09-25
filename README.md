@@ -20,7 +20,7 @@
 
 Danny's Pizza Place  
 6021 S Archer Ave, Chicago, IL 60638, USA  
-Saturday: 2:00 – 11:00 PM
+Sunday: 12:00 – 10:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
