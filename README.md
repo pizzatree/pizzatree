@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Angelo's Stuffed Pizza  
-4850 S Pulaski Rd, Chicago, IL 60632, USA  
-Thursday: 11:00 AM – 9:30 PM
+Spacca Napoli Pizzeria  
+1769 W Sunnyside Ave, Chicago, IL 60640, USA  
+Friday: 11:30 AM – 9:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
