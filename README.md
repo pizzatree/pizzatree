@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Danny's Pizza Place  
-6021 S Archer Ave, Chicago, IL 60638, USA  
-Friday: 2:00 – 11:00 PM
+Spacca Napoli Pizzeria  
+1769 W Sunnyside Ave, Chicago, IL 60640, USA  
+Saturday: 11:30 AM – 9:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
