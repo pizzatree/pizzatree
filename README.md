@@ -20,7 +20,7 @@
 
 Spacca Napoli Pizzeria  
 1769 W Sunnyside Ave, Chicago, IL 60640, USA  
-Wednesday: 11:30 AM – 3:00 PM, 4:00 – 9:00 PM
+Thursday: 11:30 AM – 3:00 PM, 4:00 – 9:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
