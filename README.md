@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Pazza Pizza  
-1543 N Sedgwick St, Chicago, IL 60610, USA  
-Thursday: 11:00 AM – 1:00 AM
+The Art of Pizza  
+3033 N Ashland Ave, Chicago, IL 60657, USA  
+Friday: 11:00 AM – 11:30 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
