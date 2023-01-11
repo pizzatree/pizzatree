@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Aurelio's Pizza Homewood  
-18162 Harwood Ave, Homewood, IL 60430, USA  
-Tuesday: 4:00 – 9:00 PM
+Dante's Pizzeria  
+3028 W Armitage Ave, Chicago, IL 60647, USA  
+Wednesday: 11:00 AM – 11:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
