@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Spacca Napoli Pizzeria  
-1769 W Sunnyside Ave, Chicago, IL 60640, USA  
-Tuesday: 11:30 AM – 3:00 PM, 4:00 – 9:00 PM
+Rosati's Pizza  
+6560 Joliet Rd, Countryside, IL 60525, USA  
+Wednesday: 11:00 AM – 10:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
