@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Dante's Pizzeria  
-3028 W Armitage Ave, Chicago, IL 60647, USA  
-Monday: 11:00 AM – 10:00 PM
+Spacca Napoli Pizzeria  
+1769 W Sunnyside Ave, Chicago, IL 60640, USA  
+Tuesday: 11:30 AM – 3:00 PM, 4:00 – 9:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
