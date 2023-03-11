@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Pazza Pizza  
-1543 N Sedgwick St, Chicago, IL 60610, USA  
-Friday: 3:00 PM – 3:00 AM
+Spacca Napoli Pizzeria  
+1769 W Sunnyside Ave, Chicago, IL 60640, USA  
+Saturday: 11:30 AM – 9:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
