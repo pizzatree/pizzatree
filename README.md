@@ -20,7 +20,7 @@
 
 Pequod's Pizza  
 2207 N Clybourn Ave, Chicago, IL 60614, USA  
-Tuesday: 11:00 AM – 2:00 AM
+Wednesday: 11:00 AM – 2:00 AM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
