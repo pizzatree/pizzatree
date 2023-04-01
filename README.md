@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Pequod's Pizza  
-2207 N Clybourn Ave, Chicago, IL 60614, USA  
-Friday: 11:00 AM – 2:00 AM
+Pazza Pizza  
+1543 N Sedgwick St, Chicago, IL 60610, USA  
+Saturday: 3:00 PM – 3:00 AM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
