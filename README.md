@@ -20,7 +20,7 @@
 
 Rosati's Pizza  
 6560 Joliet Rd, Countryside, IL 60525, USA  
-Monday: 11:00 AM – 10:00 PM
+Tuesday: 11:00 AM – 10:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
