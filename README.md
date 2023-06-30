@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Rosati's Pizza  
-6560 Joliet Rd, Countryside, IL 60525, USA  
-Wednesday: 11:00 AM – 10:00 PM
+Pazza Pizza  
+1543 N Sedgwick St, Chicago, IL 60610, USA  
+Friday: 11:00 AM – 3:00 AM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
