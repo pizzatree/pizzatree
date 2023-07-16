@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-The Art of Pizza  
-3033 N Ashland Ave, Chicago, IL 60657, USA  
-Saturday: 11:00 AM – 11:30 PM
+Dimo's Pizza Wicker Park  
+1615 N Damen Ave, Chicago, IL 60647, USA  
+Sunday: 11:00 AM – 1:00 AM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
