@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Spacca Napoli Pizzeria  
-1769 W Sunnyside Ave, Chicago, IL 60640, USA  
-Friday: 11:30 AM – 9:00 PM
+Aurelio's Pizza Homewood  
+18162 Harwood Ave, Homewood, IL 60430, USA  
+Saturday: 11:30 AM – 10:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
