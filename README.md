@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Aurelio's Pizza Homewood  
-18162 Harwood Ave, Homewood, IL 60430, USA  
-Saturday: 11:30 AM – 10:00 PM
+Danny's Pizza Place  
+6021 S Archer Ave, Chicago, IL 60638, USA  
+Sunday: 12:00 – 10:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
