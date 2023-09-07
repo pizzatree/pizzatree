@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Pequod's Pizza  
-2207 N Clybourn Ave, Chicago, IL 60614, USA  
-Wednesday: 11:00 AM – 2:00 AM
+Barraco's Pizza  
+3701 95th St, Evergreen Park, IL 60805, USA  
+Thursday: Open 24 hours
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
