@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Barraco's Pizza  
-3701 95th St, Evergreen Park, IL 60805, USA  
-Monday: Open 24 hours
+Rosati's Pizza  
+6560 Joliet Rd, Countryside, IL 60525, USA  
+Tuesday: 11:00 AM – 10:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
