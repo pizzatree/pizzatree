@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Rosati's Pizza  
-6560 Joliet Rd, Countryside, IL 60525, USA  
-Thursday: 11:00 AM – 10:00 PM
+Aurelio's Pizza Homewood  
+18162 Harwood Ave, Homewood, IL 60430, USA  
+Friday: 11:30 AM – 10:00 PM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
