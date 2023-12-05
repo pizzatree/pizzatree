@@ -20,7 +20,7 @@
 
 Barraco's Pizza  
 3701 95th St, Evergreen Park, IL 60805, USA  
-Sunday: Open 24 hours
+Tuesday: Open 24 hours
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
