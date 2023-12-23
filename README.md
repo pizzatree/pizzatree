@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Aurelio's Pizza Homewood  
-18162 Harwood Ave, Homewood, IL 60430, USA  
-Friday: 11:30 AM – 10:00 PM
+Dimo's Pizza Wrigley  
+3463 N Clark St, Chicago, IL 60657, USA  
+Saturday: 11:00 AM – 3:30 AM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
