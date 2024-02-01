@@ -18,9 +18,9 @@
 [<img src="pizza.jpg" align="right" height=172 width=368>](pizza.jpg)
 ### Pizza Joint of the Day  
 
-Rosati's Pizza  
-1730 E Warner Rd #5, Tempe, AZ 85284, USA  
-Wednesday: 11:00 AM – 9:00 PM
+Pazza Pizza  
+1543 N Sedgwick St, Chicago, IL 60610, USA  
+Thursday: 11:00 AM – 3:00 AM
 
 [![Update Pizza OTD](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml/badge.svg)](https://github.com/pizzatree/pizzatree/actions/workflows/build.yml)  
 
